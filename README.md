@@ -8,4 +8,4 @@ ch- 👋 Hi, I’m @milliyx
 milliyx/milliyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=nombre_de_usuario.nombre_del_repositorio)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=milliyx.milliyx)
