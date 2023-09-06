@@ -72,7 +72,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=milliyx&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=milliyx&style=flat-square" align="center" />
 </div>  
   
 
