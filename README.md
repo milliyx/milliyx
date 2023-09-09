@@ -4,12 +4,9 @@
 <img src="https://64.media.tumblr.com/c82838ecf715d89c0c298e6c25d1f067/tumblr_mnmq9ntD5V1qg6rkio1_500.gifv" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">hellouu, i'm michelle (:</div>  
+### <div align="center">i´m michelle (:</div>  
   
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -30,7 +27,6 @@
 </div>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -53,9 +49,6 @@
 
 
 ## Recent Blog Posts  
-  
-
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=milliyx&style=flat-square" align="center" />
