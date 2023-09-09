@@ -69,7 +69,8 @@
 <br/>  
 
 <div align="center"></div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
 <br />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 ----
