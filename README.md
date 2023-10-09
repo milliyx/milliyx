@@ -20,7 +20,7 @@
 
 <p align="left"> 
   I'm enthusiastic about <strong>ICT</strong>.<br>
-  I am currently a student at the Faculty of Engineering at UNAM, acquiring new skills and learning many things.
+I am currently a student at the Faculty of Engineering at UNAM, acquiring new skills and learning many things.
 </p>
 
 <p align="left">
