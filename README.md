@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/c82838ecf715d89c0c298e6c25d1f067/tumblr_mnmq9ntD5V1qg6rkio1_500.gifv" align="center" style="width: 100%" />
+  <img src="https://i.pinimg.com/originals/e9/8a/c7/e98ac742c2ca7af243c89743b6cd6de3.gif" align="center" style="width: 100%" />
 </div>  
 
 ## <div align="center">I'm Michelle (:</div>  
@@ -28,20 +28,17 @@ I am currently a student at the Faculty of Engineering at UNAM, acquiring new sk
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:michellebarrios_@outlook.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" />
   </a>
-  
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/michelle-barrios-58b335293" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/michelle-barrios-58b335293" />
   </a>
-
-  <a href="#" alt="Facebook">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="https://www.facebook.com/michellex.barrios31?mibextid=ZbWKwL" />
+  <a href="https://www.facebook.com/michellex.barrios31?mibextid=ZbWKwL" alt="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="" />
   </a>
-
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://instagram.com/mdlsx_?igshid=OGQ5ZDc2ODk2ZA==" />
+  <a href="https://instagram.com/mdlsx_?igshid=OGQ5ZDc2ODk2ZA==" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="" />
   </a>
 </p>
 
