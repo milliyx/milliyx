@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e9/8a/c7/e98ac742c2ca7af243c89743b6cd6de3.gif" align="center" style="width: 100%" />
+  <img src="" align="center" style="width: 100%" />
 </div>  
 
 ## <div align="center">I'm Michelle (:</div>  
@@ -11,7 +11,8 @@
 ## Learning 👩‍💻
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=latex,html,css,javascript,c,figma,python,java,linux,wordpress,ruby" />
+
+  [![My Skills](https://skillicons.dev/icons?i=latex,html,css,javascript,c,figma,python,java,linux,wordpress,ruby,arch,autocad,aws,laravel,azure,matlab,php,blender,react,bootstrap,docker,git,swift,js&theme=light)](https://skillicons.dev)
 </p>
 
 ## Connect with me   
