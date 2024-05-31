@@ -11,7 +11,7 @@
 
 <p align="center">
 
-  [![My Skills](https://skillicons.dev/icons?i=latex,html,css,javascript,c,figma,python,java,linux,wordpress,ruby,arch,autocad,aws,laravel,azure,matlab,php,blender,react,bootstrap,docker,git,typescript,swift,js&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=latex,html,css,javascript,c,figma,python,java,linux,wordpress,ruby,arch,autocad,aws,laravel,azure,matlab,php,blender,react,bootstrap,docker,git,typescript,swift&theme=light)](https://skillicons.dev)
 </p>
 
 ## Connect with me   
