@@ -31,7 +31,7 @@ I am currently a student at the Faculty of Engineering at UNAM, acquiring new sk
   <a href="mailto:michellebarrios_@outlook.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" />
   </a>
-  <a href="https://www.linkedin.com/in/michelle-barrios-58b335293" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/michelle~barrios/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/michelle-barrios-58b335293" />
   </a>
   <a href="https://www.facebook.com/michellex.barrios31?mibextid=ZbWKwL" alt="Facebook">
