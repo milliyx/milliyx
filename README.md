@@ -31,7 +31,7 @@ I am currently a student at the Faculty of Engineering at UNAM, acquiring new sk
   <a href="mailto:michellebarrios_@outlook.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" />
   </a>
-  <a href="https://www.linkedin.com/in/michelle~barrios/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/-michellebarrios/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/michelle-barrios-58b335293" />
   </a>
   <a href="https://www.facebook.com/michellex.barrios31?mibextid=ZbWKwL" alt="Facebook">
@@ -59,7 +59,12 @@ I am currently a student at the Faculty of Engineering at UNAM, acquiring new sk
   
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kikps6b9x177yc905eknsds4z&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kikps6b9x177yc905eknsds4z&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kikps6b9x177yc905eknsds4z&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+    </a>
+</div>
+
 
 <br/>  
 
