@@ -60,8 +60,8 @@ I am currently a student at the Faculty of Engineering at UNAM, acquiring new sk
 <br/>  
 
 <div align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=kikps6b9x177yc905eknsds4z&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kikps6b9x177yc905eknsds4z&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31v3xjsthxm2fjjcm4bqgizg6hxe&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31v3xjsthxm2fjjcm4bqgizg6hxe&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
     </a>
 </div>
 
